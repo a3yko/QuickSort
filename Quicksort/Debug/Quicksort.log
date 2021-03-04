@@ -1,0 +1,17 @@
+﻿Build started 12/3/2015 9:11:04 AM.
+     1>Project "C:\Users\16asa01\Desktop\Projects\Quicksort\Quicksort\Quicksort.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\Quicksort.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Quicksort.cpp
+         Quicksort.cpp
+     1>c:\users\16asa01\desktop\projects\quicksort\quicksort\quicksort.cpp(20): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>c:\users\16asa01\desktop\projects\quicksort\quicksort\quicksort.cpp(35): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\16asa01\desktop\projects\quicksort\quicksort\quicksort.cpp(57): warning C4018: '<' : signed/unsigned mismatch
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\16asa01\Desktop\Projects\Quicksort\Debug\Quicksort.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\16asa01\Desktop\Projects\Quicksort\Debug\Quicksort.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\16asa01\Desktop\Projects\Quicksort\Debug\Quicksort.lib" /MACHINE:X86 Debug\Quicksort.obj
+         Debug\stdafx.obj
+         Quicksort.vcxproj -> C:\Users\16asa01\Desktop\Projects\Quicksort\Debug\Quicksort.exe
+     1>Done Building Project "C:\Users\16asa01\Desktop\Projects\Quicksort\Quicksort\Quicksort.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.81
